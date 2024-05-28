@@ -57,6 +57,7 @@ body{
     outline: none;
     padding-left: 60px;
     border-radius: 5px;
+    margin-top: 10px;
     border: 1px solid lightgray;
     font-size: 16px;
     font-family: 'Montebello', Times, serif;
@@ -65,6 +66,7 @@ body{
 .wrapper form .row .i{
     position: absolute;
     width: 47px;
+    margin-top: 10px;
     height: 100%;
     font-size: 20px;
     background: gray;
@@ -77,13 +79,14 @@ body{
 
 
 .wrapper form .pass{
-    margin: -8px 0 20px 0;
+    margin: -8px 0 10px 0;
 }
 
 .wrapper form .pass p{
     color: gray;
     font-size: 17px;
     text-decoration: none;
+    margin-top: 80px;
     font-family: 'Montebello', Times, serif;
 }
 
